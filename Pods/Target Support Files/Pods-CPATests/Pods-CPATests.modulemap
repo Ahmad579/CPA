@@ -1,0 +1,6 @@
+framework module Pods_CPATests {
+  umbrella header "Pods-CPATests-umbrella.h"
+
+  export *
+  module * { export * }
+}
